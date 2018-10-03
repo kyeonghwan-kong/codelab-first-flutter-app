@@ -6,3 +6,7 @@ A sample Flutter application.
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
+
+## Flutter codelab
+- part 1 : https://flutter.io/get-started/codelab/
+- part 2 : https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#2
